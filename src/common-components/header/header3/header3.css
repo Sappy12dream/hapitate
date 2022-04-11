@@ -1,0 +1,14 @@
+.header3_container {
+    height: 5.5vh;
+    background: #0B1C28;
+    display: flex;
+    color: white;
+    padding: 0 20px;
+    position: relative;
+}
+.header3_items {
+    margin: auto 23px;
+    font-size: 14px;
+    cursor: pointer;
+    color: white;
+}

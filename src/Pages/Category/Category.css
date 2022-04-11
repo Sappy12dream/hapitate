@@ -1,0 +1,15 @@
+.pd-10{
+    padding: 20px;
+}
+.mt-10{
+    margin-top: 20px;
+}
+.wrap{
+    justify-content: left;
+    flex-wrap: wrap;
+
+}
+.ct{
+        width: 200px;
+        height: 200px;
+}

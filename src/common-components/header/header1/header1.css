@@ -1,0 +1,24 @@
+.header1_container {
+    height: 5vh;
+    border-bottom: 1px rgba(0, 0, 0, 0.16) solid;
+    display: flex;
+    justify-content: space-between;
+    color: rgba(0, 0, 0, 0.56);
+}
+
+.header1_title{
+    margin: auto 14px;
+}
+
+.header1_subtitles {
+    display: flex;
+    margin: auto 0;
+}
+.header1_subtitle {
+margin: auto 12px;
+cursor: pointer;
+
+}
+.header1_subtitle span {
+    margin-left: 10px;
+}
